@@ -8,6 +8,8 @@ function add(num1, num2){
 }
 
 
+
+
 console.log(typeof country);
 console.log(typeof age);
 console.log(typeof isIndependent);
