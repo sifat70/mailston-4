@@ -3,16 +3,16 @@ if (color === 'green') {
     console.log('You are my green friend');
 }
 else if (color === 'red') {
-    console.log('You are my green friend');
+    console.log('You are my red friend');
 }
 else if (color === 'blue') {
     console.log('You are my blue friend');
 }
 else if (color === 'white') {
-    console.log('You are my green friend');
+    console.log('You are my white friend');
 }
 else if (color === 'yellow') {
-    console.log('You are my green friend');
+    console.log('You are my yellow friend');
 }
 else {
     console.log('You are my kaka kaka friend');
